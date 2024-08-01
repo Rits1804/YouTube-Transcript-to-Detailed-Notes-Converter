@@ -10,7 +10,9 @@ User-Friendly Interface: Simple and intuitive UI for easy interaction.
 
 ## Installation
   1.Clone the repository
+  
   2.Install dependencies
+  
   3.Set up environment variables (GOOGLE_API_KEY)
     https://aistudio.google.com/app/apikey
 
