@@ -14,6 +14,6 @@ User-Friendly Interface: Simple and intuitive UI for easy interaction.
   3.Set up environment variables (GOOGLE_API_KEY)
     https://aistudio.google.com/app/apikey
 
-##Usage
+## Usage
 streamlit run app.py
   
