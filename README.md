@@ -3,7 +3,9 @@ This Streamlit application extracts transcripts from YouTube videos and generate
 
 ##Features
 Extract Transcripts: Automatically fetch transcripts from YouTube videos.
+
 Generate Summaries: Use Google Gemini Pro to generate detailed notes from the video transcripts.
+
 User-Friendly Interface: Simple and intuitive UI for easy interaction.
 
 ##Installation
